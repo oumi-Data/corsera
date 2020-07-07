@@ -1,0 +1,2 @@
+# corsera
+lexical scoping
